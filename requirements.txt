@@ -1,0 +1,17 @@
+kserve==0.9.0
+nest-asyncio==1.5.4
+spacy
+presidio-analyzer==2.2.29
+
+
+
+
+
+
+
+
+
+
+
+
+
